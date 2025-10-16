@@ -1,8 +1,8 @@
 <h1 align="center">🌐 CodeZelo | Mahmoud Adel</h1>
 <p align="center">
   <strong>Full Stack Web Developer</strong><br>
-  <a href="https://www.codezelo.com/">🌎 English Site</a> |
-  <a href="https://www.codezelo.com/ar">🌍 الموقع العربي</a>
+  <a href="https://www.codezelo.com/en/">🌎 English Site</a> |
+  <a href="https://www.codezelo.com">🌍 الموقع العربي</a>
 </p>
 
 ---
@@ -74,7 +74,7 @@ I creatively build and fix websites with a clear goal:
 ## 🔗 Links
 <p align="center">
   <a href="https://www.codezelo.com/"><img src="https://img.shields.io/badge/🌐%20Visit%20My%20Website-blue?style=for-the-badge"></a>
-  <a href="https://www.codezelo.com/ar"><img src="https://img.shields.io/badge/🌍%20الموقع%20العربي-green?style=for-the-badge"></a>
+  <a href="https://www.codezelo.com/en"><img src="https://img.shields.io/badge/🌍%20الموقع%20العربي-green?style=for-the-badge"></a>
 </p>
 
 ---
